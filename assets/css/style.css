@@ -1817,6 +1817,24 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin: 0;
   }
 
+    /**
+   * CV
+   */
+
+   .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #000;
+    background-color: #ceb15a;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center; 
+    transition: background-color 0.3s ease;
+    margin-bottom: 50px;
+  }
+
+
 
 
   /**
